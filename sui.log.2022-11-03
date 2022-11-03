@@ -2,3 +2,41 @@
 2022-11-03T02:05:54.771307Z  INFO sui_storage::lock_service: LockService command processing loop started
 2022-11-03T02:05:54.812723Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
 2022-11-03T02:05:54.812779Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-11-03T02:12:15.836533Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-11-03T02:12:15.836591Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-11-03T02:12:15.880446Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.882492Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.884261Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.886380Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.888858Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.892530Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.894141Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.894790Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.895281Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.895784Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.898043Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.898916Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.899978Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.901984Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.905894Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.918261Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.937571Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.942755Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.962313Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.974903Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.992460Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.993674Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.995223Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.995979Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.996773Z  INFO sui_core::authority_aggregator: have final state
+2022-11-03T02:12:15.997438Z  INFO sui::client_commands: Showing 5 results.
+2022-11-03T02:12:15.997449Z  INFO sui::client_commands: 0x264ea8a8140d42bd7992ff63b446ca93986e387f
+2022-11-03T02:12:15.997451Z  INFO sui::client_commands: 0x3ade428c1b30f9f985efd83e023f4606b8e3ff7b
+2022-11-03T02:12:15.997454Z  INFO sui::client_commands: 0x4da563ced0ab17a042b3451e02f7eac940d3af4e
+2022-11-03T02:12:15.997456Z  INFO sui::client_commands: 0x6ce080d1961105e65b53e18707ea4aba745ea901
+2022-11-03T02:12:15.997458Z  INFO sui::client_commands: 0x7f57a6f4dde354264c04b9e1d3b4cbc732f62838
+2022-11-03T02:12:15.998464Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-11-03T02:12:15.998477Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-11-03T02:16:46.300446Z ERROR telemetry_subscribers: panicked at 'Sui System State object must always exist', crates/sui-core/src/authority/authority_store_tables.rs:218:14 panic.file="crates/sui-core/src/authority/authority_store_tables.rs" panic.line=218 panic.column=14
+2022-11-03T02:17:34.414264Z ERROR telemetry_subscribers: panicked at 'Sui System State object must always exist', crates/sui-core/src/authority/authority_store_tables.rs:218:14 panic.file="crates/sui-core/src/authority/authority_store_tables.rs" panic.line=218 panic.column=14
+2022-11-03T02:17:54.289428Z ERROR telemetry_subscribers: panicked at 'Sui System State object must always exist', crates/sui-core/src/authority/authority_store_tables.rs:218:14 panic.file="crates/sui-core/src/authority/authority_store_tables.rs" panic.line=218 panic.column=14
