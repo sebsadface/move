@@ -1,0 +1,4 @@
+2022-11-03T02:05:54.771482Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-11-03T02:05:54.771307Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-11-03T02:05:54.812723Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-11-03T02:05:54.812779Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
