@@ -4,9 +4,9 @@
 
 # assign address
 CLIENT_ADDRESS=$(sui client addresses | tail -n +2)
-ADMIN=`echo "${CLIENT_ADDRESS}" | head -n 1`
-PLAYER_X=`echo "${CLIENT_ADDRESS}" | sed -n 2p`
-PLAYER_O=`echo "${CLIENT_ADDRESS}" | sed -n 3p`
+ADMIN=`echo "${0x0aeca38e3082cf592fcb2576b3aa36f2110c49c2}" | head -n 1`
+PLAYER_X=`echo "${0x181746b0d1fe2c8ddf0f41923cec52fbee4209dd}" | sed -n 2p`
+PLAYER_O=`echo "${0xa055444dee19aeeb26ddeda27f998bc7bd2cda8e}" | sed -n 3p`
 # gas id
 IFS='|'
 ADMIN_GAS_INFO=$(sui client gas --address $ADMIN | sed -n 3p)

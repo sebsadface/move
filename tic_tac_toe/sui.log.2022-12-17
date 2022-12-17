@@ -1,0 +1,75 @@
+2022-12-17T05:43:07.884533Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-12-17T05:43:07.884528Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-12-17T05:43:08.171143Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.215106Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.294016Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.334805Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.378687Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.500706Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.512168Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.574369Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.586888Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.603772Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.623368Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.626446Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.634019Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.640570Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.650779Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.658225Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.658878Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.659526Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.660081Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.660744Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.726966Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.773822Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.802171Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.821019Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.839780Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T05:43:08.842810Z  INFO sui::client_commands: Showing 5 results.
+2022-12-17T05:43:08.842819Z  INFO sui::client_commands: 0x102586e416d6db008081f6cbf094b2b93ece5d2e
+2022-12-17T05:43:08.842822Z  INFO sui::client_commands: 0x2c7f9f3f356983cdd772c398919c78f4d9503140
+2022-12-17T05:43:08.842824Z  INFO sui::client_commands: 0x647ff8228fb986189a12f9a7c49471f6d9b6ca3d
+2022-12-17T05:43:08.842826Z  INFO sui::client_commands: 0x65e2e0777d810895cadd6438cc54479fa3433d5f
+2022-12-17T05:43:08.842828Z  INFO sui::client_commands: 0xaf41774f88cb7aa137f5c3afade9f5c6362fcdd9
+2022-12-17T05:43:08.843808Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-12-17T05:43:08.843813Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-12-17T07:58:18.741156Z ERROR telemetry_subscribers: panicked at 'Sui System State object must always exist', crates/sui-core/src/authority/authority_store_tables.rs:218:14 panic.file="crates/sui-core/src/authority/authority_store_tables.rs" panic.line=218 panic.column=14
+2022-12-17T07:59:17.002362Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-12-17T07:59:17.002358Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-12-17T07:59:17.062786Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.068659Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.073296Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.074000Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.077118Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.099960Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.101118Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.101674Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.102177Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.102686Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.104177Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.104667Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.105136Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.105736Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.106264Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.107670Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.108149Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.108654Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.109112Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.109595Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.110981Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.111466Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.111976Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.112670Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.113274Z  INFO sui_core::authority_aggregator: have final state
+2022-12-17T07:59:17.115063Z  INFO sui::client_commands: Showing 5 results.
+2022-12-17T07:59:17.115077Z  INFO sui::client_commands: 0x0aeca38e3082cf592fcb2576b3aa36f2110c49c2
+2022-12-17T07:59:17.115080Z  INFO sui::client_commands: 0x181746b0d1fe2c8ddf0f41923cec52fbee4209dd
+2022-12-17T07:59:17.115082Z  INFO sui::client_commands: 0xa055444dee19aeeb26ddeda27f998bc7bd2cda8e
+2022-12-17T07:59:17.115084Z  INFO sui::client_commands: 0xa23b51e36bcb34e26d7f282cb754a20991a865e9
+2022-12-17T07:59:17.115086Z  INFO sui::client_commands: 0xd2e43a621a8348b26bceea4ce3efeb572ef9b9b7
+2022-12-17T07:59:17.117754Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-12-17T07:59:17.117750Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-12-17T20:12:53.489850Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-12-17T20:12:53.489753Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-12-17T20:12:53.532474Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-12-17T20:12:53.532474Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
