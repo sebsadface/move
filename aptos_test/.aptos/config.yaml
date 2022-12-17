@@ -5,6 +5,12 @@ profiles:
     public_key: "0x97eab29dd2a1c1d10a0cc6089b9caa86881c9554ea1ace13ac8176f94a45abe8"
     account: 6953979610eaa92ca607a540adcd5a5b09c0995f55d4c7c54611e461c45c7410
     rest_url: "https://fullnode.testnet.aptoslabs.com"
+  nft-receiver:
+    private_key: "0x353752f950f0398d93187b83e854450d3d770a6715447734c52dbba8c7a5aa34"
+    public_key: "0x204cbfbce752f275e2fdc7c00ac58c47c6ea8b051894556d1bfbb78177b44cc8"
+    account: ba2a9db3829d4b4e3c73dc5252f469116c5264adaa9de42e458870bf0dacae4f
+    rest_url: "http://localhost:8080"
+    faucet_url: "http://localhost:8081"
   superuser:
     private_key: "0x0af2e9392bd2c3f0deec3e14287bc3cd03aef081d48a06c3c661eb2320ceeaa2"
     public_key: "0x1e1366264d2f2d809d7ad8c442b6b8107536ddf5f2b7facb2930b292513541d7"

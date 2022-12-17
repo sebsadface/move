@@ -5,6 +5,8 @@ module publisher::hello{
 
     #[test]
     public fun test1() {
-        one();
+        assert!(
+            one() == 1,0
+        )
     }
 }
