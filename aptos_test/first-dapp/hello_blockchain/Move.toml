@@ -1,9 +1,12 @@
 [package]
-name = "Examples"
-version = "0.0.0"
+name = "hello_blockchain"
+version = "1.0.0"
 
 [addresses]
-hello_blockchain = "_"
+hello_blockchain = "0x55d9d3f259ed5c9b28fbe33b4dd3fb651e9b6f436ef465e3270082735f69d3a3"
+
+[dev-addresses]
+hello_blockchain = "0x55d9d3f259ed5c9b28fbe33b4dd3fb651e9b6f436ef465e3270082735f69d3a3"
 
 [dependencies]
-AptosFramework = { local = "../../framework/aptos-framework" }
+AptosFramework = { local = "../framework/aptos-framework" }
