@@ -1,2 +1,2 @@
-# learn_move
+# move
 Learning MOVE Language
